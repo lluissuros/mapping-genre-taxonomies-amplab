@@ -1,3 +1,4 @@
 # exclude personal report and so
 /deliverables
+.ipynb_checkpoints/
 *.tsv
